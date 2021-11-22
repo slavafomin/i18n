@@ -1,6 +1,6 @@
 {
 	"name": "@moebius/i18n",
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"description": "Internationalization middleware for grammY and Telegraf",
 	"keywords": [
 		"telegram bot",

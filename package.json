@@ -1,5 +1,5 @@
 {
-	"name": "@grammyjs/i18n",
+	"name": "@moebius/i18n",
 	"version": "0.3.0",
 	"description": "Internationalization middleware for grammY and Telegraf",
 	"keywords": [

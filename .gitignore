@@ -1,6 +1,7 @@
-.nyc_output
+/.idea/
+/coverage/
+/dist/
+/node_modules/
 /*-*.*.*.tgz
-coverage
-dist
-node_modules
+.nyc_output
 yarn.lock
